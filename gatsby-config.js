@@ -7,7 +7,8 @@ const plugins = [
   {
     resolve: `gatsby-plugin-layout`,
     options: {
-        component: require.resolve(`./src/templates/docs.js`)
+      spaceId: `yiq9efu7v9q3`,
+      accessToken: `3-C-7WX2NxIub_GKAX-_ktF2C_sfmYf3pxGyz4wFfuw`,
     }
   },
   'gatsby-plugin-emotion',
